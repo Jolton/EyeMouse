@@ -22,3 +22,8 @@ Webcams have low resolution and the simple idea of tracking where your eyes are 
 
 ## What's next for EyeMouse
 Ideally we would expand it to use actual eye trackers. From our minimal research, these seem to use a combination of a much higher resolution image and infrared illumination to more accurately detect the pupil. There are also more sophisticated libraries available for such products and we predict we could be much more accurate.
+
+
+## References
+https://picoledelimao.github.io/blog/2017/01/28/eyeball-tracking-for-mouse-control-in-opencv/
+https://docs.opencv.org/
