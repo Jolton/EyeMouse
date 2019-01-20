@@ -50,7 +50,7 @@ def detectEyes(img, faceCascade, eyeCascade):
         pass
 
     try:
-        faces = faceCascade.detectMultiScale(gray, 1.1, 20)
+        faces = faceCascade.detectMultiScale(gray, 1.1, 7)
     except Exception as e:
         print('No faces found')
         cv2.imshow('img',img)
