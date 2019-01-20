@@ -1,7 +1,7 @@
 # EyeMouse
 
 ## Inspiration
-You that annoying moment when you have 3 monitors and you begin typing and realize the words are not showing up? You have this sudden panic of 'Oh no, where am I actually typing!'
+You know that annoying moment when you have 3 monitors and you begin typing and realize the words are not showing up? You have this sudden panic of 'Oh no, where am I actually typing!'
 
 Our Goal was to solve this problem
 
