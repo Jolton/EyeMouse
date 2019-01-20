@@ -5,7 +5,7 @@ You that annoying moment when you have 3 monitors and you begin typing and reali
 
 Our Goal was to solve this problem
 
-## What it does
+## What it should do
 It will track your eye movement and bring to the foreground any window that you are looking at.
 
 ## How we built it
